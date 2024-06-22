@@ -1,0 +1,9 @@
+name	ingredients
+tikka_masala	can_tomato, cream, garam_masala, chicken, yogurt, cinammon
+sausage_kale_soup	sausage, kale, stock, italian_herbs
+california_roll	sushi_rice, rice_vinegar, salmon, cucumber
+white_bread	flour, salt, sugar, yeast
+burrito	tortilla, rice, bean, sour_cream, lettuce, salsa, pico_de_gallo
+cereal	cereal, milk
+french_toast	egg, nutmeg, cinammon, bread, butter
+deli_sandwich	deli_meat, mayo
